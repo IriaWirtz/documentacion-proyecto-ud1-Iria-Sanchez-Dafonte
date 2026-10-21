@@ -32,46 +32,46 @@ public final class Incidencia {
         this.prioridad = prioridad;
         this.abierta = abierta;
     }
-
+    /**
+     * Devuelve el id del objeto
+     * @return id
+     * */
     public String getId() {
         return id;
     }
-    /**
-     * Devuelve el id del objeto
-    * @return id
-    * */
 
-    public String getTitulo() {
-        return titulo;
-    }
     /**
      * Devuelve el titulo del objeto
      * @return titulo
      * */
-
-    public String getPrioridad() {
-        return prioridad;
+    public String getTitulo() {
+        return titulo;
     }
+
     /**
      * Devuelve la prioridad del objeto
      * @return prioridad
      * */
-
-    public boolean isAbierta() {
-        return abierta;
+    public String getPrioridad() {
+        return prioridad;
     }
+
     /**
      * Devuelve si el @param abierta del objeto es true o false
      * @return true o false
      * */
+    public boolean isAbierta() {
+        return abierta;
+    }
 
+    /**
+     * Devuelve true o false dependiendo de si el @param texto coincide con algun atributo de la clase
+     * */
     public boolean coincideCon(String texto) {
         String criterio = texto.toLowerCase(Locale.ROOT);
         return id.toLowerCase(Locale.ROOT).contains(criterio)
                 || titulo.toLowerCase(Locale.ROOT).contains(criterio);
     }
-    /**
-     * Devuelve true o false dependiendo de si el @param texto coincide con algun atributo de la clase
-    * */
+
 
 }
