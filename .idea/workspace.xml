@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4905952-8a21-40b7-bc6a-9789872c970c" name="Changes" comment="terminando de comentar" />
+    <list default="true" id="a4905952-8a21-40b7-bc6a-9789872c970c" name="Changes" comment="ejercicio terminado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +40,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/iria.sanchezdafonte/Desktop/documentacion_proyecto_ud1",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -79,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="terminando de comentar" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminando de comentar" />
+    <MESSAGE value="ejercicio terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio terminado" />
   </component>
 </project>
