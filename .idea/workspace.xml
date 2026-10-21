@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4905952-8a21-40b7-bc6a-9789872c970c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/src/main/java/es/centro/incidencias/GestorIncidencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/src/main/java/es/centro/incidencias/GestorIncidencias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/src/main/java/es/centro/incidencias/Incidencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/src/main/java/es/centro/incidencias/Incidencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/src/main/java/es/centro/incidencias/IncidenciaNoEncontradaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/src/main/java/es/centro/incidencias/IncidenciaNoEncontradaException.java" afterDir="false" />
-    </list>
+    <list default="true" id="a4905952-8a21-40b7-bc6a-9789872c970c" name="Changes" comment="terminando de comentar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,5 +76,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="terminando de comentar" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminando de comentar" />
   </component>
 </project>
