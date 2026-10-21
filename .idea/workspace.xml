@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4905952-8a21-40b7-bc6a-9789872c970c" name="Changes" comment="ejercicio terminado" />
+    <list default="true" id="a4905952-8a21-40b7-bc6a-9789872c970c" name="Changes" comment="mover docs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +44,16 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/iria.sanchezdafonte/Desktop/documentacion_proyecto_ud1",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iria.sanchezdafonte\Desktop\documentacion_proyecto_ud1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="documentacion_proyecto_ud1" />
@@ -81,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="terminando de comentar" />
     <MESSAGE value="ejercicio terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio terminado" />
+    <MESSAGE value="mover docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="mover docs" />
   </component>
 </project>
